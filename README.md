@@ -2,6 +2,7 @@
 Repository for Project 1: Charlotte income vs commute analysis
 
 Team: 
+
 Bandana Deo
 
 Catlin Smith
@@ -12,15 +13,14 @@ John Falcone
 
 Charlotte Census block groups analysis
 
-	With charlotte being one of the largest growing metro areas in the united states at the moment our team felt it would be a good idea to take a look at some population metrics and find a correlation between household income and commuting to work. Hoping to find a large correlation between higher paying jobs in the Charlotte metro area, and less commuting time or no commuting time at all.
+	With charlotte being one of the largest growing metro areas in the united states at the moment our team felt it would be a good idea to take a look at some population metrics and find a correlation between household income and commuting to work. 
+	Hoping to find a large correlation between higher paying jobs commuting alone and lower paying jobs using a variety of different ways to get to work.
 	
-1.	Does a higher paying job mean less commuting time?
+1. Where are Charlotte's income blocks? over 200K? Median? under 10K?
 
-2.	Do people with higher paying jobs live closer to work?
+2. For each income block what is their perferred method of transport?
 
-3.	Where is the area with the most people commuting the longest?
-
-4.	Where is the area with the highest average income?
+3. Where is the income block with the biggest change to this perferred method of transport? (Ex. 20000-30000 shows a large number of people carpooling and commuting alone)
 
 
 Data Sources:
