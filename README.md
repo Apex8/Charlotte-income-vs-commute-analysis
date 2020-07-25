@@ -1,7 +1,9 @@
 # Charlotte_income_commute
+
 Repository for Project 1: Charlotte income vs commute analysis
 
-Team: 
+Team:
+
 Bandana Deo
 
 Catlin Smith
@@ -10,17 +12,20 @@ Hunter Johnson
 
 John Falcone
 
-Charlotte Census block groups analysis
+Charlotte Census block groups analysis:
 
-	With charlotte being one of the largest growing metro areas in the united states at the moment our team felt it would be a good idea to take a look at some population metrics and find a correlation between household income and commuting to work. Hoping to find a large correlation between higher paying jobs in the Charlotte metro area, and less commuting time or no commuting time at all.
-	
-1.	Does a higher paying job mean less commuting time?
+    With charlotte being one of the largest growing metro areas in the united states at the moment our team felt it would be a good idea to take a look at some population metrics and find a correlation between household income and commuting to work. Hoping to find a large correlation between higher paying jobs in the Charlotte metro area, and less commuting time or no commuting time at all.
 
-2.	Do people with higher paying jobs live closer to work?
+1. Do people with higher paying jobs tend to commute alone more?
 
-3.	Where is the area with the most people commuting the longest?
+2. Do people with lower paying jobs tend to use a more varried array of ways to get to work?
 
-4.	Where is the area with the highest average income?
+3. Where is the area with the lowest average income and their perferred method of commuting?
+
+4. Where is the area with the highest average income and their perferred method of commuting?
+
+5. Where is the area with the median average income and their perferred method of commuting?
+
 
 
 Data Sources:
