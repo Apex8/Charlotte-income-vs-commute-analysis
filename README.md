@@ -14,7 +14,7 @@ John Falcone
 
 Charlotte Census block groups analysis:
 
-    With charlotte being one of the largest growing metro areas in the united states at the moment our team felt it would be a good idea to take a look at some population metrics and find a correlation between household income and commuting to work. Hoping to find a large correlation between higher paying jobs in the Charlotte metro area, and less commuting time or no commuting time at all.
+    With charlotte being one of the largest growing metro areas in the united states at the moment our team felt it would be a good idea to take a look at some population metrics and find a correlation between household income and commuting to work. Hoping to find a large correlation between higher paying jobs in the Charlotte metro area, and single person commuting.  Along with more people in poverty having a diverse set of ways to get to work. 
 
 1. Do people with higher paying jobs tend to commute alone more?
 
@@ -24,11 +24,11 @@ Charlotte Census block groups analysis:
 
 4. Where is the area with the highest average income and their perferred method of commuting?
 
-5. Where is the area with the median average income and their perferred method of commuting?
+5. Where is an area with the closest to city wide average income and their perferred method of commuting?
 
 6. What do these metrics tell us about the city of charlotte?
 
-7. Are there more people that live and work in the same area when that area is closer to uptown?
+7. Are there more people that live and work in the same area when that area is closer to uptown/ do more people walk to work the closer they live to uptown?
 
 8. Do rural areas have more single occupancy commuters?
 
@@ -63,3 +63,4 @@ Data visualizations using MatPlotlib
 
 Git Hub repository
 
+PowerPoint presentation
