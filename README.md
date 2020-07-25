@@ -26,6 +26,13 @@ Charlotte Census block groups analysis:
 
 5. Where is the area with the median average income and their perferred method of commuting?
 
+6. What do these metrics tell us about the city of charlotte?
+
+7. Are there more people that live and work in the same area when that area is closer to uptown?
+
+8. Do rural areas have more single occupancy commuters?
+
+9. Where is the biggest change in commuting style in the blocks?
 
 
 Data Sources:
