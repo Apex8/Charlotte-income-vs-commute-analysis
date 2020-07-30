@@ -18,15 +18,15 @@ Charlotte Census block groups analysis:
 
 1. Do people with higher paying jobs tend to commute alone more?
 
-2. Do people with lower paying jobs tend to use a more varried array of ways to get to work?
+2. Do people with lower paying jobs tend to use a more varied array of ways to get to work?
 
-3. Where is the area with the lowest average income and their perferred method of commuting?
+3. Where is the area with the lowest average income and their preferred method of commuting?
 
-4. Where is the area with the highest average income and their perferred method of commuting?
+4. Where is the area with the highest average income and their preferred method of commuting?
 
-5. Where is an area with the closest to city wide average income and their perferred method of commuting?
+5. Where is an area with the closest to city wide average income and their preferred method of commuting?
 
-6. What do these metrics tell us about the city of charlotte?
+6. What do these metrics tell us about the city of Charlotte?
 
 7. Are there more people that live and work in the same area when that area is closer to uptown/ do more people walk to work the closer they live to uptown?
 
