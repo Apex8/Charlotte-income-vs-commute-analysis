@@ -6,4 +6,4 @@
 # Block group with largest number of commuters of each of the following categories and their median income statistic: Drive Alone (Fig. 3), Carpool(Fig. 4), Public Transport(Fig. 5), Walked(Fig. 6), Other means(Fig. 7).
 # Block with the largest number of households per each 50k (0-50, 50-100, 100-150, 150-200)(Fig. 8).
 # Commuters per category and that average income for every block to determine most used transport per income bracket.
-
+# Analysis of the results.
