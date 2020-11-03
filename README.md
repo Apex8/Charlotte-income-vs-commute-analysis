@@ -1,4 +1,4 @@
-# Charlotte_income_commute
+# Charlotte Income Commute Analysis
 
 Repository for Project 1: Charlotte income vs commute analysis
 
